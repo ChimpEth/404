@@ -1,0 +1,15 @@
+{
+  "name": "Flippie #1",
+  "description": "Este é um Flippie único, parte de uma coleção exclusiva de Flippies baseada em ERC404.",
+  "image": "https://raw.githubusercontent.com/ChimpEth/404/main/01.png",
+  "attributes": [
+    {
+      "trait_type": "Cor",
+      "value": "Azul"
+    },
+    {
+      "trait_type": "Acessório",
+      "value": "Chapéu de Pirata"
+    }    
+  ]
+}
